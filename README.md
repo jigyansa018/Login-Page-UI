@@ -1,10 +1,10 @@
 # Login-Page-UI
 
-**Objective: **
+# Objective: 
 
 Motive to design a clean login interface.
 
-**Requirements: **
+# Requirements: 
 
 ● Email and Password fields 
 
@@ -12,6 +12,6 @@ Motive to design a clean login interface.
 
 ● “Forgot Password” text
 
-**Output: **
+# Output: 
 
 ● Modern and properly aligned UI
